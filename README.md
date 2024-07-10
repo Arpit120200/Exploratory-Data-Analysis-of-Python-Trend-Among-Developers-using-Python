@@ -9,5 +9,4 @@ This repository contains the following file extensions:<br/>
 <li><b>zip file:</b> Contains the dataset used for this project
 <li><b>ipynb file:</b> Contains the complete code and output of the Exploratory Data Analysis (EDA)</li>
 <li><b>pptx file:</b> A PowerPoint presentation that explains the methodology, analysis, and key findings.</li>
-<li><b>mp4 file:</b> A comprehensive video explaining the entire code, providing a walkthrough of the analysis and its outcomes.</li>
 </ul>
