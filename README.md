@@ -11,9 +11,9 @@ Using a structured approach to data cleaning, visualization, and statistical cor
 ```
 
 Exploratory-Data-Analysis-of-Python-Trend-Among-Developers-using-Python/
-├──                      # Compressed dataset used for the analysis
-├──      # Jupyter Notebook with full EDA and visualizations
-├──   # Presentation summarizing key insights and methodology
+├──  survey_results_public.zip     # Compressed dataset used for the analysis
+├──  Code.ipynb                    # Jupyter Notebook with full EDA and visualizations
+├──  Code_Output.pptx              # Presentation summarizing key insights and methodology
 
 ````
 
@@ -59,7 +59,7 @@ pip install pandas numpy matplotlib seaborn plotly
 ### 3. Run the Notebook
 
 ```bash
-
+Code.ipynb 
 ```
 
 ## 📌 Future Scope
